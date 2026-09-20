@@ -1,1 +1,1 @@
-Fork of the original schema to port to Helix.
+Fork of the original schema for archive and porting purposes.
